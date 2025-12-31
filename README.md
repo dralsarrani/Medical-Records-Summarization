@@ -80,5 +80,34 @@ The system consists of:
 * Read the doctor's handwritten notes
 
 
-## Before and after
-![System UI](https://github.com/.../image.png)
+## ✨ Before and after
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/dralsarrani/Medical-Records-Summarization/main/Test/imageRawNote.png" width="300"><br>
+      <b>Before</b>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/dralsarrani/Medical-Records-Summarization/main/Test/imageSummarizedNote.png" width="300"><br>
+      <b>After</b>
+    </td>
+  </tr>
+</table>
+
+## 🔄 Updated Interface
+I worked on the new, updated, interactive interface.
+
+![Interface 1](https://github.com/dralsarrani/Medical-Records-Summarization/blob/main/Interface/imageLogin.png)
+
+![Interface 2](https://github.com/dralsarrani/Medical-Records-Summarization/blob/main/Interface/imageRegister.png)
+
+![Interface 3](https://github.com/dralsarrani/Medical-Records-Summarization/blob/main/Interface/imageResetpassword.png)
+
+![Interface 4](https://github.com/dralsarrani/Medical-Records-Summarization/blob/main/Interface/imageSummry.png)
+
+
+
+
+
+
