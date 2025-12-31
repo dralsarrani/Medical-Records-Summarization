@@ -77,4 +77,6 @@ The system consists of:
 * Integrate machine learning models for better summarization
 * Enable speech-to-text medical note summarization
 * Support real-time clinical dashboard
+* Read the doctor's handwritten notes
+
 
